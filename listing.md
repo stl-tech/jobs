@@ -8,7 +8,8 @@ Rabbit MQ, or other message brokers is a plus.
 
 Title and salary to be determined at the end of the interview process. Salary
 ranges can be found below.
-Senior Software Engineer ($100-120k) | Technical Lead ($115-140k) | Architect ($145-150k)
+
+**Senior Software Engineer ($100-120k)** | **Technical Lead ($115-140k)** | **Architect ($145-150k)**
 
 If you're interested, check out the full listing to apply: http://example.com/job-listing
 
