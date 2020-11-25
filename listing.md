@@ -1,5 +1,5 @@
 We have several new openings for a Software Engineer position at Widget Inc! 
-While we’re located in St. Louis, this is a a *full time, remote position. *
+While we’re located in St. Louis, this is a a **full time, remote position.**
 
 You’ll be reporting to the VP of Engineering as we build out new services to
 help streamline our widget logistics and operations. Deploy microservices on 
