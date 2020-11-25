@@ -1,0 +1,23 @@
+Hi everyone, my name is <Name> and I'm a recruiter with <Recruiting Firm>.  
+I'm currently looking to hire 3 Java Softawre Engginers who are 
+Junior (0 to 1 year of experience), Mid (1 to 5 YoE), or Senior (4+ YoE)
+level for <Client Name>. The engineers will be part of the <Department>
+organization. The jobs will be remote for the duration of the pandemic, but
+afterwards you will be expected to be on-site at <office location>.
+
+These roles are all full-time W2 roles on a contract-to-hire basis. You will
+be employeed with <Recruiting Firm> for a period of no less than 6 months as 
+a W2 employee, and afterwards will have the option of becoming a full-time
+employee of <Client> per their discretion.
+
+Target salary during the contract period is negotiable, but will be within
+the range of:
+
+- Junior: $30 to $50 per hour
+- Mid Level: $40 - $60 per hour
+- Senior: $60 - $90 per hour
+
+As an employee of <Contract> you are eligible to buy health insurance at an
+unsubsidized rate through our group health care plan (employee only). Although
+we do not offer paid time off, you may elect to withold a portion of your pay
+each period to cover up to 5 days of absence.
